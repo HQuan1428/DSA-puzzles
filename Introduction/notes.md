@@ -54,7 +54,7 @@
 ![Arithmetic](./image/arithmetic.png)
 - Geometric series
 ![Geometric](./image/geometric.png)
-- Harmonic series
+- Harmonic series </br>
 ![Harmonic](./image/harmonic.png)
 - Other important formulae
 ![Other](./image/other.png)
