@@ -50,3 +50,12 @@
 ## Commonly used Logarithms and Summations
 - Logarithms
 ![Logarithms expression](./image/logarithms.png)
+- Arithmetic series
+![Arithmetic](./image/arithmetic.png)
+- Geometric series
+![Geometric](./image/geometric.png)
+- Harmonic series
+![Harmonic](./image/harmonic.png)
+- Other important formulae
+![Other](./image/other.png)
+- 
