@@ -33,4 +33,20 @@
 ## Goal of the Analysis of Algorithms
 - The goal of the analysis of algorithms is to compare algorithms (or solutions)  mainly in terms of running time but also in terms of other factors(e.g, memory, developer effort, etc)
 
-## 
+## Asymptotic Notation
+
+### Big-O notation
+- This notation give the tight upper bound of the given function
+
+### Omega-O notation
+- This notation give the tighter lower bound of the given algorithm 
+
+### Theta-O notation
+- This notation decides whether the upper and lower bounds of a give function(algorithm) 
+
+## Important Note
+- We generally focus on the upper bound (O), we use the theta-O notation if the upper bound and lower bound are the same.
+
+## Commonly used Logarithms and Summations
+- Logarithms
+![Logarithms expression](./image/logarithms.png)
