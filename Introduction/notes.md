@@ -48,14 +48,19 @@
 - We generally focus on the upper bound (O), we use the theta-O notation if the upper bound and lower bound are the same.
 
 ## Commonly used Logarithms and Summations
-- Logarithms
+- Logarithms </br>
 ![Logarithms expression](./image/logarithms.png)
-- Arithmetic series
+- Arithmetic series </br>
 ![Arithmetic](./image/arithmetic.png)
-- Geometric series
+- Geometric series </br>
 ![Geometric](./image/geometric.png)
 - Harmonic series </br>
 ![Harmonic](./image/harmonic.png)
-- Other important formulae
+- Other important formulae </br>
 ![Other](./image/other.png)
-- 
+
+## Divide and Conquer Master Theorem
+![D&V Master Theorem](./image/D&V.png) 
+
+## Subtract and Conquer Master Theorem
+![S&C Master Theorem](./image/S&C.png)
