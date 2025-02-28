@@ -36,6 +36,8 @@
 ## Commonly Used Rates of Growth </br>
 ![Commonly Growth](./image/growth.png)
 
+## Asymptotic Notation
+
 ### Big-O notation
 - This notation give the tight upper bound of the given function
 
