@@ -33,7 +33,8 @@
 ## Goal of the Analysis of Algorithms
 - The goal of the analysis of algorithms is to compare algorithms (or solutions)  mainly in terms of running time but also in terms of other factors(e.g, memory, developer effort, etc)
 
-## Asymptotic Notation
+## Commonly Used Rates of Growth </br>
+![Commonly Growth](./image/growth.png)
 
 ### Big-O notation
 - This notation give the tight upper bound of the given function
