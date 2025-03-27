@@ -68,4 +68,7 @@ Which way is better? - iteration or recursion ?
 - For some problems, there are no obvious iterative algorithms
 - Some problems are best suited for recursive solutions while others are not.
 
+## What is Backtracking?
+Backtracking is an improvement of the brute force aproach. 
+
 ## Problems and Solution
