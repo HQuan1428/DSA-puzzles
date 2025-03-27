@@ -72,3 +72,18 @@ Which way is better? - iteration or recursion ?
 Backtracking is an improvement of the brute force aproach. 
 
 ## Problems and Solution
+
+### Problem 1: Discuss Towers of Hanoi puzzle
+Algorithm:
+- Move the top n - 1 disks from Source to Auxiliary tower,
+- Move the n^th disk from Source to Destination tower,
+- Move the n - 1 disks from Auciliary tower to Destination tower.
+
+
+### Problem 2: Given an array, check whether the array is in sorted order with recursion
+
+
+### Problem 3: Generate all the strings of n bits. Assume A[0..n-1] is an array of size n
+
+### Problem 4: Generate all the strings of length n drawn from 0,..., k - 1
+ 
